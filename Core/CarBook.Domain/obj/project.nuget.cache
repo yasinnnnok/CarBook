@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WNXpzJFf0qKfIiak3I+jPcG5/T+kkmHbg/IQZ3c6x1qE8YE1wm1wFnoyF9c1p+ZKE61ObZBVxL6djz+YCPsuiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.local.sabis.subu.edu.tr/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
