@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj": {}
+    "C:\\Users\\SUBU\\Desktop\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj": {
+    "C:\\Users\\SUBU\\Desktop\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\SUBU\\Desktop\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj",
         "projectName": "CarBook.Domain",
-        "projectPath": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj",
+        "projectPath": "C:\\Users\\SUBU\\Desktop\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj",
         "packagesPath": "C:\\Users\\SUBU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Core\\CarBook.Domain\\obj\\",
+        "outputPath": "C:\\Users\\SUBU\\Desktop\\CarBook\\Core\\CarBook.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SUBU\\AppData\\Roaming\\NuGet\\NuGet.Config",
