@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SUBU\\Desktop\\CarBook\\Core\\Applicaton\\Applicaton.csproj",
+      "projectUniqueName": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Core\\Applicaton\\Applicaton.csproj",
       "projectName": "Applicaton",
-      "projectPath": "C:\\Users\\SUBU\\Desktop\\CarBook\\Core\\Applicaton\\Applicaton.csproj",
+      "projectPath": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Core\\Applicaton\\Applicaton.csproj",
       "packagesPath": "C:\\Users\\SUBU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SUBU\\Desktop\\CarBook\\Core\\Applicaton\\obj\\",
+      "outputPath": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Core\\Applicaton\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SUBU\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\SUBU\\Desktop\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj": {
-              "projectPath": "C:\\Users\\SUBU\\Desktop\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj"
+            "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj": {
+              "projectPath": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj"
             }
           }
         }

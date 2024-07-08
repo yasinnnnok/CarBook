@@ -3323,11 +3323,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SUBU\\Desktop\\CarBook\\Presantation\\CarBook.WebApi\\CarBook.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Presantation\\CarBook.WebApi\\CarBook.WebApi.csproj",
       "projectName": "CarBook.WebApi",
-      "projectPath": "C:\\Users\\SUBU\\Desktop\\CarBook\\Presantation\\CarBook.WebApi\\CarBook.WebApi.csproj",
+      "projectPath": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Presantation\\CarBook.WebApi\\CarBook.WebApi.csproj",
       "packagesPath": "C:\\Users\\SUBU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SUBU\\Desktop\\CarBook\\Presantation\\CarBook.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Presantation\\CarBook.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SUBU\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3345,8 +3345,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\SUBU\\Desktop\\CarBook\\Infrastucture\\CarBook.Persistence\\CarBook.Persistence.csproj": {
-              "projectPath": "C:\\Users\\SUBU\\Desktop\\CarBook\\Infrastucture\\CarBook.Persistence\\CarBook.Persistence.csproj"
+            "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Infrastucture\\CarBook.Persistence\\CarBook.Persistence.csproj": {
+              "projectPath": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Infrastucture\\CarBook.Persistence\\CarBook.Persistence.csproj"
             }
           }
         }

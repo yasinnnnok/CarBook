@@ -2926,11 +2926,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SUBU\\Desktop\\CarBook\\Infrastucture\\CarBook.Persistence\\CarBook.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Infrastucture\\CarBook.Persistence\\CarBook.Persistence.csproj",
       "projectName": "CarBook.Persistence",
-      "projectPath": "C:\\Users\\SUBU\\Desktop\\CarBook\\Infrastucture\\CarBook.Persistence\\CarBook.Persistence.csproj",
+      "projectPath": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Infrastucture\\CarBook.Persistence\\CarBook.Persistence.csproj",
       "packagesPath": "C:\\Users\\SUBU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SUBU\\Desktop\\CarBook\\Infrastucture\\CarBook.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Infrastucture\\CarBook.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SUBU\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2948,11 +2948,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\SUBU\\Desktop\\CarBook\\Core\\Applicaton\\Applicaton.csproj": {
-              "projectPath": "C:\\Users\\SUBU\\Desktop\\CarBook\\Core\\Applicaton\\Applicaton.csproj"
+            "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Core\\Applicaton\\Applicaton.csproj": {
+              "projectPath": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Core\\Applicaton\\Applicaton.csproj"
             },
-            "C:\\Users\\SUBU\\Desktop\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj": {
-              "projectPath": "C:\\Users\\SUBU\\Desktop\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj"
+            "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj": {
+              "projectPath": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj"
             }
           }
         }

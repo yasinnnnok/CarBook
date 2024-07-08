@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rj2RJ9LT+c2MrdYjTqnvECPOmRn5DI3SEdpnPEG7Nlpn7fkNxbJMtehy0w2WW5ytw1BVyctOT//fr0cpp/GZZQ==",
+  "dgSpecHash": "tbQ2ClEgzgbMssNig3RSox4tiC9for9G7rTOD3fpZgRwpbz559gdvS2dRFkg472peqW6rRIQcrM7u1Iza47l3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SUBU\\Desktop\\CarBook\\Presantation\\CarBook.WebApi\\CarBook.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Presantation\\CarBook.WebApi\\CarBook.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SUBU\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\SUBU\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

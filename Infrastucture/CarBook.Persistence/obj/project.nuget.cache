@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xxoo/1uzihATCyX97JcRY7vn2qkpdMoCsYM4IGMa38vD4jQLNx559MFOGVZuR1ZZDO7YhVTSmCihHQPjjd7+6A==",
+  "dgSpecHash": "DniYTIY8lAUOM6pn4NwA1slS0gjbwN2bEv4Q8Y8NMH91worIAAii8uuDx8UzyU2ZfYMp+gRz9Z6fFxaJZnfYNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SUBU\\Desktop\\CarBook\\Infrastucture\\CarBook.Persistence\\CarBook.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\SUBU\\Desktop\\Yeni klasör\\CarBook\\Infrastucture\\CarBook.Persistence\\CarBook.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SUBU\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\SUBU\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
