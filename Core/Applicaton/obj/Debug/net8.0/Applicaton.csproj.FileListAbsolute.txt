@@ -14,3 +14,19 @@ C:\Users\SUBU\Desktop\CarBook\Core\Applicaton\obj\Debug\net8.0\Applicaton.dll
 C:\Users\SUBU\Desktop\CarBook\Core\Applicaton\obj\Debug\net8.0\refint\Applicaton.dll
 C:\Users\SUBU\Desktop\CarBook\Core\Applicaton\obj\Debug\net8.0\Applicaton.pdb
 C:\Users\SUBU\Desktop\CarBook\Core\Applicaton\obj\Debug\net8.0\ref\Applicaton.dll
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Core\Applicaton\bin\Debug\net8.0\Applicaton.deps.json
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Core\Applicaton\bin\Debug\net8.0\Applicaton.dll
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Core\Applicaton\bin\Debug\net8.0\Applicaton.pdb
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Core\Applicaton\bin\Debug\net8.0\CarBook.Domain.dll
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Core\Applicaton\bin\Debug\net8.0\CarBook.Domain.pdb
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Core\Applicaton\obj\Debug\net8.0\Applicaton.csproj.AssemblyReference.cache
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Core\Applicaton\obj\Debug\net8.0\Applicaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Core\Applicaton\obj\Debug\net8.0\Applicaton.AssemblyInfoInputs.cache
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Core\Applicaton\obj\Debug\net8.0\Applicaton.AssemblyInfo.cs
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Core\Applicaton\obj\Debug\net8.0\Applicaton.csproj.CoreCompileInputs.cache
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Core\Applicaton\obj\Debug\net8.0\Applicaton.sourcelink.json
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Core\Applicaton\obj\Debug\net8.0\Applicaton.csproj.Up2Date
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Core\Applicaton\obj\Debug\net8.0\Applicaton.dll
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Core\Applicaton\obj\Debug\net8.0\refint\Applicaton.dll
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Core\Applicaton\obj\Debug\net8.0\Applicaton.pdb
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Core\Applicaton\obj\Debug\net8.0\ref\Applicaton.dll

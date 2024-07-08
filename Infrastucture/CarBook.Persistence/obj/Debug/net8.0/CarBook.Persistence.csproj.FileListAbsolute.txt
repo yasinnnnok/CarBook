@@ -36,3 +36,5 @@ C:\Users\SUBU\Desktop\CarBook\Infrastucture\CarBook.Persistence\obj\Debug\net8.0
 C:\Users\SUBU\Desktop\CarBook\Infrastucture\CarBook.Persistence\obj\Debug\net8.0\CarBook.Persistence.pdb
 C:\Users\SUBU\Desktop\CarBook\Infrastucture\CarBook.Persistence\obj\Debug\net8.0\CarBook.Persistence.genruntimeconfig.cache
 C:\Users\SUBU\Desktop\CarBook\Infrastucture\CarBook.Persistence\obj\Debug\net8.0\ref\CarBook.Persistence.dll
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Infrastucture\CarBook.Persistence\bin\Debug\net8.0\Applicaton.dll
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Infrastucture\CarBook.Persistence\bin\Debug\net8.0\Applicaton.pdb

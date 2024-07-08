@@ -160,3 +160,5 @@ C:\Users\SUBU\Desktop\CarBook\Presantation\CarBook.WebApi\obj\Debug\net8.0\refin
 C:\Users\SUBU\Desktop\CarBook\Presantation\CarBook.WebApi\obj\Debug\net8.0\CarBook.WebApi.pdb
 C:\Users\SUBU\Desktop\CarBook\Presantation\CarBook.WebApi\obj\Debug\net8.0\CarBook.WebApi.genruntimeconfig.cache
 C:\Users\SUBU\Desktop\CarBook\Presantation\CarBook.WebApi\obj\Debug\net8.0\ref\CarBook.WebApi.dll
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Presantation\CarBook.WebApi\bin\Debug\net8.0\Applicaton.dll
+C:\Users\SUBU\Desktop\Yeni klasör\CarBook\Presantation\CarBook.WebApi\bin\Debug\net8.0\Applicaton.pdb
