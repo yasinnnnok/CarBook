@@ -27,7 +27,7 @@ namespace CarBook.WebApi.Controllers
             _removeBannerCommandHandler = removeBannerCommandHandler;
         }
 
-
+        //
         [HttpGet]
         public async Task<IActionResult> BannerList()
         {
