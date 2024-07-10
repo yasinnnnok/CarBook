@@ -1,6 +1,7 @@
 using Applicaton.Features.Handlers.AboutHandlers;
 using Applicaton.Features.Handlers.BannerHandlers;
 using Applicaton.Features.Handlers.BrandHandlers;
+using Applicaton.Features.Handlers.CarHandlers;
 using Applicaton.Interfaces;
 using CarBook.Persistence.Context;
 using CarBook.Persistence.Repositories;
@@ -29,6 +30,13 @@ builder.Services.AddScoped<GetBrandByIdQueryHandler>();
 builder.Services.AddScoped<CreateBrandCommandHandler>();
 builder.Services.AddScoped<UpdateBrandCommandHandler>();
 builder.Services.AddScoped<RemoveBrandCommandHandler>();
+
+
+builder.Services.AddScoped<GetCarQueryHandler>();
+builder.Services.AddScoped<GetCarByIdQueryHandler>();
+builder.Services.AddScoped<CreateCarCommandHandler>();
+builder.Services.AddScoped<UpdateCarCommandHandler>();
+builder.Services.AddScoped<RemoveCarCommandHandler>();
 
 
 
