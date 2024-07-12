@@ -1,4 +1,5 @@
 ﻿using Applicaton.Interfaces;
+using CarBook.Domain.Entities;
 using CarBook.Persistence.Context;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -15,7 +16,7 @@ namespace CarBook.Persistence.Repositories
 
         public Repository(CarBookContext context)
         {
-            _context=context;
+            _context = context;
 
         }
 
@@ -35,6 +36,8 @@ namespace CarBook.Persistence.Repositories
         {
             return await _context.Set<T>().FindAsync(id);
         }
+
+
 
         public async Task RemoveAsync(T entity)
         {

@@ -15,5 +15,7 @@ namespace Applicaton.Interfaces
         Task RemoveAsync(T entity);
 
 
+
+
     }
 }
