@@ -2,6 +2,7 @@ using Applicaton.Features.Handlers.AboutHandlers;
 using Applicaton.Features.Handlers.BannerHandlers;
 using Applicaton.Features.Handlers.BrandHandlers;
 using Applicaton.Features.Handlers.CarHandlers;
+using Applicaton.Features.Handlers.CategoryHandlers;
 using Applicaton.Interfaces;
 using Applicaton.Interfaces.CarInterfaces;
 using CarBook.Persistence.Context;
@@ -42,6 +43,11 @@ builder.Services.AddScoped<UpdateCarCommandHandler>();
 builder.Services.AddScoped<RemoveCarCommandHandler>();
 builder.Services.AddScoped<GetCarWithBrandQueryHandler>();
 
+builder.Services.AddScoped<GetCategoryQueryHandler>();
+builder.Services.AddScoped<GetCategoryByIdQueryHandler>();
+builder.Services.AddScoped<CreateCategoryCommandHandler>();
+builder.Services.AddScoped<UpdateCategoryCommandHandler>();
+builder.Services.AddScoped<RemoveCategoryCommandHandler>();
 
 
 builder.Services.AddControllers();
