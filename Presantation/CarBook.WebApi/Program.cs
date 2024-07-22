@@ -1,9 +1,9 @@
-using Applicaton.Features.Handlers.AboutHandlers;
-using Applicaton.Features.Handlers.BannerHandlers;
-using Applicaton.Features.Handlers.BrandHandlers;
-using Applicaton.Features.Handlers.CarHandlers;
-using Applicaton.Features.Handlers.CategoryHandlers;
-using Applicaton.Features.Handlers.ContactHandlers;
+using Applicaton.Features.CQRS.Handlers.AboutHandlers;
+using Applicaton.Features.CQRS.Handlers.BannerHandlers;
+using Applicaton.Features.CQRS.Handlers.BrandHandlers;
+using Applicaton.Features.CQRS.Handlers.CarHandlers;
+using Applicaton.Features.CQRS.Handlers.CategoryHandlers;
+using Applicaton.Features.CQRS.Handlers.ContactHandlers;
 using Applicaton.Interfaces;
 using Applicaton.Interfaces.CarInterfaces;
 using CarBook.Persistence.Context;

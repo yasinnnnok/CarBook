@@ -1,7 +1,7 @@
-﻿using Applicaton.Features.Commands.BannerCommands;
-using Applicaton.Features.Handlers.AboutHandlers;
-using Applicaton.Features.Handlers.BannerHandlers;
-using Applicaton.Features.Queries.BannerQueries;
+﻿using Applicaton.Features.CQRS.Commands.BannerCommands;
+using Applicaton.Features.CQRS.Handlers.BannerHandlers;
+using Applicaton.Features.CQRS.Handlers.AboutHandlers;
+using Applicaton.Features.CQRS.Queries.BannerQueries;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;

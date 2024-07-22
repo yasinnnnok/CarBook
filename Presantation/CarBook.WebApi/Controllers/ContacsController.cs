@@ -1,6 +1,6 @@
-﻿using Applicaton.Features.Commands.ContactCommands;
-using Applicaton.Features.Handlers.ContactHandlers;
-using Applicaton.Features.Queries.ContactQueries;
+﻿using Applicaton.Features.CQRS.Commands.ContactCommands;
+using Applicaton.Features.CQRS.Handlers.ContactHandlers;
+using Applicaton.Features.CQRS.Queries.ContactQueries;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 

@@ -1,6 +1,6 @@
-﻿using Applicaton.Features.Commands.AboutCommands;
-using Applicaton.Features.Handlers.AboutHandlers;
-using Applicaton.Features.Queries.AboutQueries;
+﻿using Applicaton.Features.CQRS.Commands.AboutCommands;
+using Applicaton.Features.CQRS.Handlers.AboutHandlers;
+using Applicaton.Features.CQRS.Queries.AboutQueries;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.AccessControl;

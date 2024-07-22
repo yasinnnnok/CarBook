@@ -1,6 +1,6 @@
-﻿using Applicaton.Features.Commands.CarCommand;
-using Applicaton.Features.Handlers.CarHandlers;
-using Applicaton.Features.Queries.CarQueires;
+﻿using Applicaton.Features.CQRS.Commands.CarCommand;
+using Applicaton.Features.CQRS.Handlers.CarHandlers;
+using Applicaton.Features.CQRS.Queries.CarQueires;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
