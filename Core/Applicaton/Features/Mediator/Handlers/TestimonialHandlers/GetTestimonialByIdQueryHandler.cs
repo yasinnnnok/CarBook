@@ -12,10 +12,11 @@ using System.Text;
 
 namespace UdemyCarBook.Application.Features.Mediator.Handlers.TestimonialHandlers
 {
-    public class GetPricingByIdQueryHandler : IRequestHandler<GetTestimonialByIdQuery, GetTestimonialByIdQueryResult>
+    
+    public class GetTestimonialByIdQueryHandler : IRequestHandler<GetTestimonialByIdQuery, GetTestimonialByIdQueryResult>
     {
         private readonly IRepository<Testimonial> _repository;
-        public GetPricingByIdQueryHandler(IRepository<Testimonial> repository)
+        public GetTestimonialByIdQueryHandler(IRepository<Testimonial> repository)
         {
             _repository = repository;
         }

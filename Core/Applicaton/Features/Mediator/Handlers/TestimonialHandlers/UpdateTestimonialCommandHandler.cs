@@ -1,4 +1,5 @@
-﻿using Applicaton.Features.Mediator.Commands.TestimonialCommand;
+﻿using Applicaton.Features.Mediator.Commands.PricingCommand;
+using Applicaton.Features.Mediator.Commands.TestimonialCommand;
 using Applicaton.Interfaces;
 using CarBook.Domain.Entities;
 using MediatR;
