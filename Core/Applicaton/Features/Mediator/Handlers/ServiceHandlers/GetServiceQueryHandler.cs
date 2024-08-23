@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 
 
-namespace UdemyCarBook.Application.Features.Mediator.Handlers.ServiceHandlers
+namespace Carbook.Application.Features.Mediator.Handlers.ServiceHandlers
 {
     public class GetServiceQueryHandler : IRequestHandler<GetServiceQuery, List<GetServiceQueryResult>>
     {

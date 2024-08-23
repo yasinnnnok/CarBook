@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace UdemyCarBook.Application.Features.Mediator.Handlers.TestimonialHandlers
+namespace Carbook.Application.Features.Mediator.Handlers.TestimonialHandlers
 {
     public class UpdatePricingCommandHandler : IRequestHandler<UpdateTestimonialCommand>
     {

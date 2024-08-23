@@ -8,12 +8,10 @@ namespace Carbook.Dto.AboutDtos
 {
     public class ResultAboutDto
     {
-        public int AboutId { get; set; }
-        public string Title { get; set; }
-        public string Description { get; set; }
-        public string ImageUrl { get; set; }
+        public int aboutID { get; set; }
+        public string title { get; set; }
+        public string description { get; set; }
+        public string imageUrl { get; set; }
 
     }
-
-
 }

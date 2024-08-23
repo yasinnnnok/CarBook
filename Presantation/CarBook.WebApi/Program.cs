@@ -6,10 +6,12 @@ using Applicaton.Features.CQRS.Handlers.CategoryHandlers;
 using Applicaton.Features.CQRS.Handlers.ContactHandlers;
 using Applicaton.Interfaces;
 using Applicaton.Interfaces.CarInterfaces;
+using Applicaton.Interfaces.CarPricingInterfaces;
 using Applicaton.Services;
 using CarBook.Persistence.Context;
 using CarBook.Persistence.Repositories;
 using CarBook.Persistence.Repositories.CarRepositories;
+using Carbook.Persistence.Repositories.CarPricingRepositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +19,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddScoped<CarBookContext>();
 builder.Services.AddScoped(typeof(IRepository<>),typeof(Repository<>));
 builder.Services.AddScoped(typeof(ICarRepository),typeof(CarRepository));
+builder.Services.AddScoped(typeof(ICarPricingRepository),typeof(CarPricingRepository));
 
 builder.Services.AddScoped<GetAboutQueryHandler>();
 builder.Services.AddScoped<GetAboutByIdQueryHandler>();

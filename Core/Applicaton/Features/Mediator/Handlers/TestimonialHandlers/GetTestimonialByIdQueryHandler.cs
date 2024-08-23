@@ -10,7 +10,7 @@ using System.Text;
 
 
 
-namespace UdemyCarBook.Application.Features.Mediator.Handlers.TestimonialHandlers
+namespace Carbook.Application.Features.Mediator.Handlers.TestimonialHandlers
 {
     
     public class GetTestimonialByIdQueryHandler : IRequestHandler<GetTestimonialByIdQuery, GetTestimonialByIdQueryResult>

@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 
-namespace UdemyCarBook.Application.Features.Mediator.Handlers.ServiceHandlers
+namespace Carbook.Application.Features.Mediator.Handlers.ServiceHandlers
 {
     public class GetPricingByIdQueryHandler : IRequestHandler<GetServiceByIdQuery, GetServiceByIdQueryResult>
     {

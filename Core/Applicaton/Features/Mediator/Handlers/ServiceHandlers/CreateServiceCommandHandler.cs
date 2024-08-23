@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace UdemyCarBook.Application.Features.Mediator.Handlers.ServiceHandlers
+namespace Carbook.Application.Features.Mediator.Handlers.ServiceHandlers
 {
     public class CreatePricingCommandHandler : IRequestHandler<CreateServiceCommand>
     {

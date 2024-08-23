@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 
 
-namespace UdemyCarBook.Application.Features.Mediator.Handlers.ServiceHandlers
+namespace Carbook.Application.Features.Mediator.Handlers.ServiceHandlers
 {
     public class RemovePricingCommandHandler : IRequestHandler<RemoveServiceCommand>
     {
