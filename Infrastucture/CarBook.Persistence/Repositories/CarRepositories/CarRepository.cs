@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -24,6 +25,8 @@ namespace CarBook.Persistence.Repositories.CarRepositories
             var values = _context.Cars.Include(x => x.Brand).ToList();
             return values;
         }
+
+
 
         public List<Car> GetLast5CarsWithBrands()
         {
